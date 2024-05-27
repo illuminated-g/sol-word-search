@@ -12,6 +12,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="support" Type="Folder">
+			<Item Name="Check Indices for Straight Continuous Line.vi" Type="VI" URL="../support/Check Indices for Straight Continuous Line.vi"/>
 			<Item Name="Example Solver.vi" Type="VI" URL="../support/Example Solver.vi"/>
 			<Item Name="Letter Index--cluster.ctl" Type="VI" URL="../support/Letter Index--cluster.ctl"/>
 			<Item Name="Solutions--map.ctl" Type="VI" URL="../support/Solutions--map.ctl"/>
