@@ -20,6 +20,7 @@
 		<Item Name="Result.ctl" Type="VI" URL="../Result.ctl"/>
 		<Item Name="Score Post.ctl" Type="VI" URL="../Score Post.ctl"/>
 		<Item Name="Solutions--map.ctl" Type="VI" URL="../Solutions--map.ctl"/>
+		<Item Name="Solver VI Ref Type.ctl" Type="VI" URL="../Solver VI Ref Type.ctl"/>
 	</Item>
 	<Item Name="Generator" Type="Folder">
 		<Item Name="generate_random_grid_and_word_list.vi" Type="VI" URL="../generate_random_grid_and_word_list.vi"/>
