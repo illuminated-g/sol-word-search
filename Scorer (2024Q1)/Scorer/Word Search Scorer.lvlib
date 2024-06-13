@@ -7,6 +7,7 @@
 	<Item Name="Config" Type="Folder">
 		<Item Name="Load Credentials.vi" Type="VI" URL="../Load Credentials.vi"/>
 		<Item Name="Read BaseURL.vi" Type="VI" URL="../Read BaseURL.vi"/>
+		<Item Name="Read Challenge Data.vi" Type="VI" URL="../Read Challenge Data.vi"/>
 		<Item Name="Read Challenge IDs.vi" Type="VI" URL="../Read Challenge IDs.vi"/>
 		<Item Name="Read Download Path.vi" Type="VI" URL="../Read Download Path.vi"/>
 	</Item>
@@ -16,22 +17,29 @@
 		<Item Name="Letter Index--cluster.ctl" Type="VI" URL="../Letter Index--cluster.ctl"/>
 		<Item Name="Next Scoring Request.ctl" Type="VI" URL="../Next Scoring Request.ctl"/>
 		<Item Name="Next Submission.ctl" Type="VI" URL="../Next Submission.ctl"/>
+		<Item Name="Result.ctl" Type="VI" URL="../Result.ctl"/>
+		<Item Name="Score Post.ctl" Type="VI" URL="../Score Post.ctl"/>
 		<Item Name="Solutions--map.ctl" Type="VI" URL="../Solutions--map.ctl"/>
 	</Item>
 	<Item Name="Generator" Type="Folder">
 		<Item Name="generate_random_grid_and_word_list.vi" Type="VI" URL="../generate_random_grid_and_word_list.vi"/>
+		<Item Name="Save Grid.vi" Type="VI" URL="../Save Grid.vi"/>
 	</Item>
 	<Item Name="Solver" Type="Folder">
-		<Item Name="Test Harness.vi" Type="VI" URL="../Test Harness.vi"/>
+		<Item Name="Check Indices for Straight Continuous Line.vi" Type="VI" URL="../Check Indices for Straight Continuous Line.vi"/>
 		<Item Name="Word Search VI Type.vi" Type="VI" URL="../Word Search VI Type.vi"/>
+		<Item Name="Word Search.vi" Type="VI" URL="../Word Search.vi"/>
 	</Item>
 	<Item Name="Submission" Type="Folder">
+		<Item Name="Open Solver.vi" Type="VI" URL="../Open Solver.vi"/>
+		<Item Name="Run Solver.vi" Type="VI" URL="../Run Solver.vi"/>
 		<Item Name="Unpack Zip.vi" Type="VI" URL="../Unpack Zip.vi"/>
 	</Item>
 	<Item Name="Web" Type="Folder">
 		<Item Name="Download Submission.vi" Type="VI" URL="../Download Submission.vi"/>
 		<Item Name="Next Submission.vi" Type="VI" URL="../Next Submission.vi"/>
 		<Item Name="Scorer Post.vi" Type="VI" URL="../Scorer Post.vi"/>
+		<Item Name="Upload Score.vi" Type="VI" URL="../Upload Score.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>
