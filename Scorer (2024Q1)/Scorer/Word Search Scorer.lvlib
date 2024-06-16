@@ -10,6 +10,7 @@
 		<Item Name="Read Challenge Data.vi" Type="VI" URL="../Read Challenge Data.vi"/>
 		<Item Name="Read Challenge IDs.vi" Type="VI" URL="../Read Challenge IDs.vi"/>
 		<Item Name="Read Download Path.vi" Type="VI" URL="../Read Download Path.vi"/>
+		<Item Name="Read LabVIEW Info.vi" Type="VI" URL="../Read LabVIEW Info.vi"/>
 	</Item>
 	<Item Name="Data Types" Type="Folder">
 		<Item Name="Error Response.ctl" Type="VI" URL="../Error Response.ctl"/>
