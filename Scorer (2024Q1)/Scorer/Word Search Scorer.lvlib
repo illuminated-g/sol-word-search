@@ -19,6 +19,8 @@
 		<Item Name="Next Submission.ctl" Type="VI" URL="../Next Submission.ctl"/>
 		<Item Name="Result.ctl" Type="VI" URL="../Result.ctl"/>
 		<Item Name="Score Post.ctl" Type="VI" URL="../Score Post.ctl"/>
+		<Item Name="Scorer State.ctl" Type="VI" URL="../Scorer State.ctl"/>
+		<Item Name="Scoring Result.ctl" Type="VI" URL="../Scoring Result.ctl"/>
 		<Item Name="Solutions--map.ctl" Type="VI" URL="../Solutions--map.ctl"/>
 		<Item Name="Solver VI Ref Type.ctl" Type="VI" URL="../Solver VI Ref Type.ctl"/>
 	</Item>
@@ -26,13 +28,23 @@
 		<Item Name="generate_random_grid_and_word_list.vi" Type="VI" URL="../generate_random_grid_and_word_list.vi"/>
 		<Item Name="Save Grid.vi" Type="VI" URL="../Save Grid.vi"/>
 	</Item>
+	<Item Name="Inspect" Type="Folder">
+		<Item Name="Tests" Type="Folder">
+			<Item Name="Is Naughty Func.vi" Type="VI" URL="../Is Naughty Func.vi"/>
+			<Item Name="Is Naughty SubVI.vi" Type="VI" URL="../Is Naughty SubVI.vi"/>
+		</Item>
+		<Item Name="Inspect Submission.vi" Type="VI" URL="../Inspect Submission.vi"/>
+		<Item Name="Inspect VI.vi" Type="VI" URL="../Inspect VI.vi"/>
+	</Item>
 	<Item Name="Solver" Type="Folder">
 		<Item Name="Check Indices for Straight Continuous Line.vi" Type="VI" URL="../Check Indices for Straight Continuous Line.vi"/>
 		<Item Name="Word Search VI Type.vi" Type="VI" URL="../Word Search VI Type.vi"/>
 		<Item Name="Word Search.vi" Type="VI" URL="../Word Search.vi"/>
 	</Item>
 	<Item Name="Submission" Type="Folder">
+		<Item Name="Launch Scoring.vi" Type="VI" URL="../Launch Scoring.vi"/>
 		<Item Name="Open Solver.vi" Type="VI" URL="../Open Solver.vi"/>
+		<Item Name="Run Auto Score.vi" Type="VI" URL="../Run Auto Score.vi"/>
 		<Item Name="Run Solver.vi" Type="VI" URL="../Run Solver.vi"/>
 		<Item Name="Unpack Zip.vi" Type="VI" URL="../Unpack Zip.vi"/>
 	</Item>
@@ -42,5 +54,6 @@
 		<Item Name="Scorer Post.vi" Type="VI" URL="../Scorer Post.vi"/>
 		<Item Name="Upload Score.vi" Type="VI" URL="../Upload Score.vi"/>
 	</Item>
+	<Item Name="Auto Scorer.vi" Type="VI" URL="../Auto Scorer.vi"/>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>
