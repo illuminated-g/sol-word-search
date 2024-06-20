@@ -43,6 +43,7 @@
 		<Item Name="Word Search.vi" Type="VI" URL="../Word Search.vi"/>
 	</Item>
 	<Item Name="Submission" Type="Folder">
+		<Item Name="Close VI.vi" Type="VI" URL="../Close VI.vi"/>
 		<Item Name="Launch Scoring.vi" Type="VI" URL="../Launch Scoring.vi"/>
 		<Item Name="Open Solver.vi" Type="VI" URL="../Open Solver.vi"/>
 		<Item Name="Run Auto Score.vi" Type="VI" URL="../Run Auto Score.vi"/>
